@@ -1,4 +1,5 @@
 # reading-notes
+This site includes my notes for each lecture that is collected from several resources.
 # Table of contents
 1. [Node Ecosystem](#NodeEcosystem)
 2. [Some paragraph](#Express,NPM,TDD,CI/CD)
@@ -39,7 +40,7 @@ writing of modular code using commonJS modules, writing tests to assert code qua
 
 
 
- # class(2)  <a name="Express,NPM,TDD,CI/CD"></a>
+ ## class(2)  <a name="Express,NPM,TDD,CI/CD"></a>
  
 
  Reading:
@@ -118,12 +119,12 @@ ________________________________________________________________________________
 every recursive function should has tow parts : the base case and the recursive case , the recursive case is wjen the function calls it self.The base case is when the function doesnt call itself agian...by dividing the function to tow these ats,the infint lopp wll not exsist.
 
 ___________________________________________________________________________________________________________
-## Recursion : is used in many algorithms ,is abuilding block.
+### Recursion : is used in many algorithms ,is abuilding block.
 recursion has tow parts: base case and recursive case .
 ## psoudo code : is a high level describtion of the problem ,you are trying to solve in code..its written like code ,but its meant to be closer to humen speech.
 people use recursion since it often makes code easier to understand and look cleaner.
 ___________________________________________________________________________________________________________
-## Data structer: 
+### Data structer: 
 1. linked list : is something called an (node) which contains a value and apointer ,the value is something as simple as a number.and that number will simply connect you to the next node.
 the first node in the list is known as a (head) while the last node known as (tail).
 
