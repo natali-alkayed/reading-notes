@@ -6,3 +6,4 @@ This site includes my notes for each lecture that is collected from several reso
 3. [class 1: Data Structures and Algorith](./class1/class1b.md)
 4. [class 2: Express REST API](./class2.md)
 5. [class 3: Linked lists](./class3/class3.md)
+6. [class 4: SQL and NoSQL](./class4.md)
