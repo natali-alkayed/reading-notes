@@ -13,6 +13,7 @@ A SQL database is like a traditional store with clearly defined sections and ais
 On the other hand, a NoSQL database is like a modern store with multiple checkout counters scattered around the store. As the number of customers increases, you can add more checkout counters wherever it makes sense. This way, customers can go to any counter and get served quickly, without causing congestion.
 
 In simple terms, SQL databases scale vertically by adding more resources to a central server, while NoSQL databases scale horizontally by adding more servers to distribute the load. NoSQL databases offer more flexibility for handling large amounts of data and high traffic, making them highly scalable.
+
 __________________________________________________________________________________________________________
 ### 1. Among data tables, what is a one-to-many relationship and how do we “relate” them?
  a one-to-many relationship is a type of relationship where a single record in one table is associated with multiple records in another table. It is one of the fundamental types of relationships in relational database design.To relate the two tables in a one-to-many relationship, a common approach is to use a foreign key. A foreign key is a column or set of columns in one table that references the primary key of another table.
