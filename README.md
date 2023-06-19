@@ -8,3 +8,4 @@ This site includes my notes for each lecture that is collected from several reso
 5. [class 3: Linked lists](./class3/class3.md)
 6. [class 4: SQL and NoSQL](./class4.md)
 6. [class 6: Authentication](./class6//class6.md)
+6. [class 7: Bearer Authorization](./class7.md)
