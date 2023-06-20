@@ -33,3 +33,5 @@ ________________________________________________________________________________
     1. Header: The header component of the signature contains information about the algorithm used for signing the token. It is a JSON object that typically includes the "alg" (algorithm) parameter.
     2. Payload: The payload component of the signature contains the claims or statements about the user or additional data. It is also a JSON object that holds information such as user ID, expiration time, roles, and custom data.
     3. Signature: The signature component is the result of hashing the concatenated string of the base64-encoded header and payload along with a secret key (or private key in asymmetric cryptography). It ensures the integrity of the token and can be used to verify its authenticity.
+___________________________________________________________________________________________________________
+![JWT](./7.webp)
