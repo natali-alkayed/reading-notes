@@ -9,3 +9,4 @@ This site includes my notes for each lecture that is collected from several reso
 6. [class 4: SQL and NoSQL](./class4.md)
 6. [class 6: Authentication](./class6//class6.md)
 6. [class 7: Bearer Authorization](./class7/class7.md)
+6. [class 8: Access Control (ACL) ](./class8/README.md)
