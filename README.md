@@ -13,3 +13,4 @@ This site includes my notes for each lecture that is collected from several reso
 10. [class 9: Authorization/Authentication ](./class9/README.md)
 10. [class 10: Stacks & Queues ](./class10/README.md)
 12. [class 11: Event Driven Programming ](./class11/README.md)
+13. [class 12: Socket.io ](./class12/README.md)
