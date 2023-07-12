@@ -16,3 +16,4 @@ This site includes my notes for each lecture that is collected from several reso
 13. [class 12: Socket.io ](./class12/README.md)
 14. [class 13: Message Queues ](./class13/README.md)
 15. [class 14: Event Driven Architecture ](./class14/README.md)
+16. [class 15: Tree ](./class15/README.md)
