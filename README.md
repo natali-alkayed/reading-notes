@@ -17,3 +17,4 @@ This site includes my notes for each lecture that is collected from several reso
 14. [class 13: Message Queues ](./class13/README.md)
 15. [class 14: Event Driven Architecture ](./class14/README.md)
 16. [class 15: Tree ](./class15/README.md)
+16. [class 16: AWS: Cloud Servers ](./class16/README.md)
