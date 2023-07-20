@@ -19,3 +19,4 @@ This site includes my notes for each lecture that is collected from several reso
 16. [class 15: Tree ](./class15/README.md)
 17. [class 16: AWS: Cloud Servers ](./class16/README.md)
 18. [class 17: AWS: S3 and Lambda ](./class17/README.md)
+19. [class 18: AWS: API, Dynamo and Lambda ](./class18/README.md)
