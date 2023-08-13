@@ -20,4 +20,4 @@ This site includes my notes for each lecture that is collected from several reso
 17. [class 16: AWS: Cloud Servers ](./class16/README.md)
 18. [class 17: AWS: S3 and Lambda ](./class17/README.md)
 19. [class 18: AWS: API, Dynamo and Lambda ](./class18/README.md)
-20. [class 19: AWS: Events ](./class19/README.md)
+20. [class 26: Component Based UI ](./class26/README.md)
