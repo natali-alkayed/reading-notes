@@ -22,3 +22,4 @@ This site includes my notes for each lecture that is collected from several reso
 19. [class 18: AWS: API, Dynamo and Lambda ](./class18/README.md)
 20. [class 26: Component Based UI ](./class26/README.md)
 21. [class 27: Hooks(use-state) ](./class27/README.md)
+21. [class 28: Hooks(use-effect) ](./class28/README.md)
