@@ -23,3 +23,4 @@ This site includes my notes for each lecture that is collected from several reso
 20. [class 26: Component Based UI ](./class26/README.md)
 21. [class 27: Hooks(use-state) ](./class27/README.md)
 21. [class 28: Hooks(use-effect) ](./class28/README.md)
+22. [class 29: Hooks(use-reduce) ](./class29/README.md)
