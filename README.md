@@ -26,3 +26,4 @@ This site includes my notes for each lecture that is collected from several reso
 22. [class 29: Hooks(use-reduce) ](./class29/README.md)
 23. [class 30: Hash Tables ](./class30/README.md)
 24. [class 31: Context api ](./class31/README.md)
+25. [class 32: Context API - Behaviors ](./class32/README.md)
