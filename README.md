@@ -28,3 +28,4 @@ This site includes my notes for each lecture that is collected from several reso
 24. [class 31: Context api ](./class31/README.md)
 25. [class 32: Context API - Behaviors ](./class32/README.md)
 26. [class 33: Login and Auth ](./class33/README.md)
+27. [class 34: API Integration ](./class34/README.md)
